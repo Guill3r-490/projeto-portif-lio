@@ -1,2 +1,2 @@
 # projeto portifólio
-projeto fibnal do Curso em video html5 e css
+projeto final do Curso em video html5 e css
